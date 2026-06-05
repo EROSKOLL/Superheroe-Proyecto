@@ -1,4 +1,4 @@
-# 🦸‍♂️ Superhero API Core
+# Superheroe Backend
 Joel Abisahi Urena Arroyo
 23040897
 
