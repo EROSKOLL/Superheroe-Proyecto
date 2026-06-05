@@ -6,7 +6,7 @@ Servicio centralizado para la gestión de superhéroes, desarrollado bajo una ar
 
 ---
 
-## 🚀 Guía de Puesta en Marcha
+##  Guía
 
 Sigue estos pasos para configurar el entorno de desarrollo local una vez tengas el código en tu equipo:
 
